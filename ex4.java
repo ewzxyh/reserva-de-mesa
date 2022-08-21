@@ -2,8 +2,8 @@ package EstruturaDeDados;
 
 import javax.swing.JOptionPane;
 
-public class ex4 {
-//ENZO HIDEKI YOSHIDA 2022102000641
+public class ReservaDeMesa {
+//ENZO HIDEKI YOSHIDA @ewzxyh
 	public static void main(String[] args) {
 
         int mesas = 0;
